@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-lobby-view-a",
-      "name": "Lobby View A",
+      "id": "0-prince-office-view-1",
+      "name": "Prince Office View 1",
       "levels": [
         {
           "tileSize": 256,
@@ -32,8 +32,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-lobby-view-b",
-      "name": "Lobby View B",
+      "id": "1-prince-office-view-2",
+      "name": "Prince Office View 2",
       "levels": [
         {
           "tileSize": 256,
@@ -63,8 +63,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-waiting-area---view-a",
-      "name": "Waiting Area - View A",
+      "id": "2-prince-office-view-3",
+      "name": "Prince Office View 3",
       "levels": [
         {
           "tileSize": 256,
@@ -94,8 +94,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-waiting-area---view-b",
-      "name": "Waiting Area - View B",
+      "id": "3-prince-office-view-4",
+      "name": "Prince Office View 4",
       "levels": [
         {
           "tileSize": 256,
@@ -125,8 +125,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-ceo-office---view-a",
-      "name": "CEO office - View A",
+      "id": "4-prince-office-view-5",
+      "name": "Prince Office View 5",
       "levels": [
         {
           "tileSize": 256,
@@ -156,8 +156,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-ceo-office---view-b",
-      "name": "CEO office - View B",
+      "id": "5-board-meeting-r-view-1",
+      "name": "Board Meeting R View 1",
       "levels": [
         {
           "tileSize": 256,
@@ -187,8 +187,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-ceo-office---view-c",
-      "name": "CEO office - View C",
+      "id": "6-board-meeting-r-view-2",
+      "name": "Board Meeting R View 2",
       "levels": [
         {
           "tileSize": 256,
@@ -218,39 +218,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-ceo-office---view-d",
-      "name": "CEO office - View D",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "8-ceo-office---view-e",
-      "name": "CEO office - View E",
+      "id": "7-board-meeting-r-view-3",
+      "name": "Board Meeting R View 3",
       "levels": [
         {
           "tileSize": 256,
