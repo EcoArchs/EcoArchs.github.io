@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-prince-office-view-1",
-      "name": "Prince Office View 1",
+      "id": "0-prince-office-view-a",
+      "name": "Prince Office View A",
       "levels": [
         {
           "tileSize": 256,
@@ -32,8 +32,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-prince-office-view-2",
-      "name": "Prince Office View 2",
+      "id": "1-prince-office-view-b",
+      "name": "Prince Office View B",
       "levels": [
         {
           "tileSize": 256,
@@ -63,8 +63,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-prince-office-view-3",
-      "name": "Prince Office View 3",
+      "id": "2-prince-office-view-c",
+      "name": "Prince Office View C",
       "levels": [
         {
           "tileSize": 256,
@@ -94,8 +94,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-prince-office-view-4",
-      "name": "Prince Office View 4",
+      "id": "3-prince-office-view-d",
+      "name": "Prince Office View D",
       "levels": [
         {
           "tileSize": 256,
@@ -125,8 +125,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-prince-office-view-5",
-      "name": "Prince Office View 5",
+      "id": "4-prince-office-view-e",
+      "name": "Prince Office View E",
       "levels": [
         {
           "tileSize": 256,
@@ -156,8 +156,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-board-meeting-r-view-1",
-      "name": "Board Meeting R View 1",
+      "id": "5-prince-office-view-f",
+      "name": "Prince Office View F",
       "levels": [
         {
           "tileSize": 256,
@@ -187,8 +187,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-board-meeting-r-view-2",
-      "name": "Board Meeting R View 2",
+      "id": "6-ceo-office-view-a",
+      "name": "CEO Office View A",
       "levels": [
         {
           "tileSize": 256,
@@ -218,8 +218,132 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-board-meeting-r-view-3",
-      "name": "Board Meeting R View 3",
+      "id": "7-ceo-office-view-b",
+      "name": "CEO Office View B",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-ceo-office-view-c",
+      "name": "CEO Office View C",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "9-bmeeting-r-view-a",
+      "name": "B.Meeting R View A",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "10-bmeeting-r-view-b",
+      "name": "B.Meeting R View B",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "11-bmeeting-r-view-c",
+      "name": "B.Meeting R View C",
       "levels": [
         {
           "tileSize": 256,
