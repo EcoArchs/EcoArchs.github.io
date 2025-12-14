@@ -101,8 +101,8 @@ body {
   text-decoration: none;
   text-decoration-line: none;
   color: white;
-  font-size: 3.5rem;
-  margin-top: 4rem;
+  font-size: 2.5rem;
+  margin-top: 1rem;
 }
 .landing h2 {
   text-decoration: none;
@@ -258,6 +258,12 @@ body {
   width: flex;
   height: 150px;
   position: relative;
+}
+#LOGO2 {
+  width: flex;
+  height: 160px;
+  position: relative;
+  padding-top: 3rem;
 }
 .card-image:hover {
   transform: scale(1.05);
@@ -518,7 +524,7 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-  .landing h1 { font-size: 1.8rem; }
+  .landing h1 { font-size: 1rem; }
   .landing h2 { font-size: 1.2rem; }
   .cards-container { padding: 0 1rem; }
   .card { 
